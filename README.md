@@ -19,7 +19,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Github](https://github.com/adram3l3ch/Advice-generator)
--   Live Site URL: [Netlify](adramelech-advice-generator.netlify.com)
+-   Live Site URL: [Netlify](https://adramelech-advice-generator.netlify.com)
 
 ## My process
 
